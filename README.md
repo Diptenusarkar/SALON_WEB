@@ -104,14 +104,3 @@ The project can be deployed to various platforms:
 - **GitHub Pages**: Use GitHub Actions for automated deployments
 - **Any static hosting service**: Upload the contents of `dist` folder
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
