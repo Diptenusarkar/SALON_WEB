@@ -14,7 +14,7 @@ const Footer = () => {
               <span className="text-gold">Luxe</span> Beauty
             </h3>
             <p className="text-muted-foreground font-light mb-6">
-              Where elegance meets excellence in premium beauty services.
+              Where elegance meets excellence in premium beauty of services.
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:border-primary hover:glow-gold transition-all duration-300">
@@ -31,7 +31,7 @@ const Footer = () => {
 
           {/* Quick Links */}
           <div>
-            <h4 className="text-lg font-semibold mb-4 text-gold">Quick Links</h4>
+            <h4 className="text-lg font-semibold mb-4 text-gold">Quick Navigator</h4>
             <ul className="space-y-3">
               {["Services", "About Us", "Gallery", "Pricing", "Contact"].map((link) => (
                 <li key={link}>
